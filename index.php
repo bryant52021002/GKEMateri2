@@ -1,3 +1,7 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+$nama = "Bryant Lie";
+$nim = "52021002";
+$jurusan = "TI";
+
+echo "Nama: " . $nama . ", NIM: " . $nim . ", Jurusan: " . $jurusan;
